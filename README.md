@@ -46,13 +46,13 @@ Based on these checks, the password is classified as:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/YASHWANTH2909/Virtual-Works.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd password-strength-checker
+cd Virtual-Works
 ```
 
 ## Usage
@@ -84,7 +84,7 @@ Suggestions to improve security:
 ## Project Structure
 
 ```text
-password-strength-checker/
+Virtual-Works/
 │
 ├── password.py
 └── README.md
@@ -92,7 +92,7 @@ password-strength-checker/
 
 ## Author
 
-Yashwanth Reddy
+Yashwanth R Reddy
 
 ## License
 
